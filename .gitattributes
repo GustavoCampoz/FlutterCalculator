@@ -5,6 +5,7 @@
 *.js linguist-detectable=false
 *.java linguist-detectable=false
 *.cpp linguist-detectable=false
-*.dart linguist-detectable=true
+*.cc linguist-detectable=false
 *.cmake linguist-detectable=false
 *.txt linguist-detectable=false
+*.dart linguist-detectable=true
