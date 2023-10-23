@@ -2,4 +2,4 @@
 * text=auto
 *.html linguist-detectable=false
 *.kotlin linguist-detectable=false
-*.switft linguist-detectable=false
+*.cpp linguist-detectable=false
